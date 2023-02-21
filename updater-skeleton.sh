@@ -9,7 +9,7 @@
 # and pushes it to another repo. This file is a template you can use.
 #
 
-# NOTICE: To run this you need to have git SSH and GPG settings and set up.
+# NOTICE: To run this you need to have git SSH and GPG settings set up.
 
 # Source Repository and Aircraft Settings.
 aircraft_path="FOLDER/AIRCRAFT_MODEL" # Aircraft Path relative to the git repository.
